@@ -1,4 +1,6 @@
-﻿Console.Write("Nhap so phan tu: ");
+﻿//ThiDN
+
+Console.Write("Nhap so phan tu: ");
 int n = Convert.ToInt32(Console.ReadLine());
 int[] arr = new int[n];
 
