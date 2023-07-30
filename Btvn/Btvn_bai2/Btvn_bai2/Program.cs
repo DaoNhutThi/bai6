@@ -1,4 +1,6 @@
-﻿Console.WriteLine("\n Nhap so phan tu: ");
+﻿//ThiDN
+
+Console.WriteLine("\n Nhap so phan tu: ");
 int n = Convert.ToInt32(Console.ReadLine());
 
 int i = 0, j = 0, tempt;
