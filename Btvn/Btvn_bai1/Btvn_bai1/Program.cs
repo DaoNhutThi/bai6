@@ -1,4 +1,6 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿//ThiDN
+
+using System.ComponentModel.DataAnnotations;
 
 ///MAX cua Mang mot chieu
 ///
